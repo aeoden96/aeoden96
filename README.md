@@ -11,6 +11,13 @@
 :thought_balloon: AI
  * [TensorFlow Autocoder](https://github.com/aeoden96-uni/TF_autocoder)
  * [AI missionaries puzzle](https://github.com/aeoden96-uni/AI_missionaries)
+
+Algorithms
+* [Walsh-hadamard algorithm](https://github.com/aeoden96-uni/walsh_hadamard_alg_analysis)
+* [Grover algorithm](https://github.com/aeoden96-uni/grover_algorithm)
+
+Other CS projects
+* [Compiler](https://github.com/aeoden96-uni/py_compiler) for a subset of C++ language made in python
     
 
 <!--
