@@ -1,5 +1,3 @@
-:books: [My other uni projects](https://github.com/aeoden96-uni)
-
 :art: OpenGL projects
 * [SlitherIo snake](https://github.com/aeoden96/opengl_slitherio) 
  
@@ -22,6 +20,12 @@
 
 📦 Other CS projects
 * Simple [Compiler](https://github.com/aeoden96-uni/py_compiler) for a C-like language made in python
+
+
+Most of these are done as uni projects. Contributors are mentioned in individual readme's.
+
+***
+:books: [My other uni projects](https://github.com/aeoden96-uni)
     
 
 <!--
