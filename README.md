@@ -12,15 +12,15 @@
  * [AI missionaries puzzle](https://github.com/aeoden96-uni/AI_missionaries)
  * [Student performace analysis](https://github.com/aeoden96-uni/student_performance)
 
-Algorithms
+📉 Algorithms
 * [Walsh-hadamard algorithm](https://github.com/aeoden96-uni/walsh_hadamard_alg_analysis)
 * [Grover algorithm](https://github.com/aeoden96-uni/grover_algorithm)
 
-Web/PHP
+🕸 Web/PHP
 * [Student Admission App](https://github.com/aeoden96-uni/DB_project)
 * [Cinema manager](https://github.com/aeoden96-uni/cinema_manager)
 
-Other CS projects
+📦 Other CS projects
 * Simple [Compiler](https://github.com/aeoden96-uni/py_compiler) for a C-like language made in python
     
 
