@@ -2,7 +2,6 @@
 
 :art: OpenGL projects
 * [SlitherIo snake](https://github.com/aeoden96/opengl_slitherio) 
-* [RPG Game](https://github.com/aeoden96/OpenGL_RPG) from Youtube tutorial
  
  :video_game: SFML C++
  * [SFML RPG](https://github.com/aeoden96/SFML_RPG) from Youtube tutorial
