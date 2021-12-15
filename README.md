@@ -17,7 +17,7 @@ Algorithms
 * [Grover algorithm](https://github.com/aeoden96-uni/grover_algorithm)
 
 Web/PHP
-* [Student Admission App](https://github.com/aeoden96-uni/DB_project) that sorts students by faculties based on faculty criteria and student ranking.
+* [Student Admission App](https://github.com/aeoden96-uni/DB_project)
 * [Cinema manager](https://github.com/aeoden96-uni/cinema_manager)
 
 Other CS projects
