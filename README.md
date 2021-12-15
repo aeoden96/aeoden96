@@ -11,10 +11,15 @@
 :thought_balloon: AI
  * [TensorFlow Autocoder](https://github.com/aeoden96-uni/TF_autocoder)
  * [AI missionaries puzzle](https://github.com/aeoden96-uni/AI_missionaries)
+ * [Student performace analysis](https://github.com/aeoden96-uni/student_performance)
 
 Algorithms
 * [Walsh-hadamard algorithm](https://github.com/aeoden96-uni/walsh_hadamard_alg_analysis)
 * [Grover algorithm](https://github.com/aeoden96-uni/grover_algorithm)
+
+Web/PHP
+* [Student Admission App](https://github.com/aeoden96-uni/DB_project) that sorts students by faculties based on faculty criteria and student ranking.
+* [Cinema manager](https://github.com/aeoden96-uni/cinema_manager)
 
 Other CS projects
 * Simple [Compiler](https://github.com/aeoden96-uni/py_compiler) for a C-like language made in python
