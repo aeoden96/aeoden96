@@ -17,7 +17,7 @@ Algorithms
 * [Grover algorithm](https://github.com/aeoden96-uni/grover_algorithm)
 
 Other CS projects
-* [Compiler](https://github.com/aeoden96-uni/py_compiler) for a subset of C++ language made in python
+* Simple [Compiler](https://github.com/aeoden96-uni/py_compiler) for a C-like language made in python
     
 
 <!--
