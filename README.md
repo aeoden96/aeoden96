@@ -43,7 +43,7 @@ Most of these are done as uni projects. Collaborators are mentioned in individua
  * [Breakout](https://github.com/aeoden96/breakout_game)
  
 </td>
-<td rowspan="3">
+<td rowspan="2">
  
 🚀 [FER Java projects](https://github.com/aeoden96/java_FER_projects)
  
@@ -90,15 +90,20 @@ Most of these are done as uni projects. Collaborators are mentioned in individua
 * Simple [Compiler](https://github.com/aeoden96-uni/py_compiler) for a C-like language made in python
  
 </td>
+<td>
+ 
+:books: [My other uni projects](https://github.com/aeoden96-uni)
+ 
+</td> 
 </tr>
-
-
 </table>
 
 Most of these are done as uni projects. Collaborators are mentioned in individual readme's.
 
 ***
-:books: [My other uni projects](https://github.com/aeoden96-uni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeoden96&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **aeoden96/aeoden96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
