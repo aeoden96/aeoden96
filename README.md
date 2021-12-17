@@ -45,7 +45,7 @@ Most of these are done as uni projects. Collaborators are mentioned in individua
 </td>
 <td rowspan="3">
  
-  :video_game: [FER Java projects](https://github.com/aeoden96/SFML_RPG)
+  :video_game: [FER Java projects](https://github.com/aeoden96/java_FER_projects)
  
  * ```Collection``` implementation
  * Simple language parser
