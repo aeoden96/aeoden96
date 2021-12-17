@@ -43,6 +43,21 @@ Most of these are done as uni projects. Collaborators are mentioned in individua
  * [Breakout](https://github.com/aeoden96/breakout_game)
  
 </td>
+<td rowspan="3">
+ 
+  :video_game: [FER Java projects](https://github.com/aeoden96/SFML_RPG)
+ 
+ * ```Collection``` implementation
+ * Simple language parser
+ * Fractal imager
+ * Database terminal sim
+ * WeatherStation (Observer patter practise)
+ * ```Bash``` emulator
+ * Raycasting project
+ * Calculator 
+ 
+</td> 
+ 
 </tr>
 <tr>
 <td>
@@ -76,6 +91,8 @@ Most of these are done as uni projects. Collaborators are mentioned in individua
  
 </td>
 </tr>
+
+
 </table>
 
 Most of these are done as uni projects. Collaborators are mentioned in individual readme's.
