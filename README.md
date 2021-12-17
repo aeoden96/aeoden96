@@ -98,10 +98,12 @@ Most of these are done as uni projects. Collaborators are mentioned in individua
 </tr>
 </table>
 
+***
+
 Most of these are done as uni projects. Collaborators are mentioned in individual readme's.
 
-***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeoden96&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeoden96&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
