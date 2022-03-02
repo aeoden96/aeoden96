@@ -1,5 +1,6 @@
 <!-- :art: OpenGL projects
 * [SlitherIo snake](https://github.com/aeoden96/opengl_slitherio) 
+* [B-spline > Bezier converter](https://github.com/aeoden96-uni/b_spline_converter)
  
  :video_game: SFML C++
  * [SFML RPG](https://github.com/aeoden96/SFML_RPG) from Youtube tutorial
