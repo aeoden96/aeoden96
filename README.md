@@ -35,6 +35,7 @@ Most of these are done as uni projects. Collaborators are mentioned in individua
  
 :art: OpenGL projects
 * [SlitherIo snake](https://github.com/aeoden96/opengl_slitherio) 
+* [B-spline > Bezier converter](https://github.com/aeoden96-uni/b_spline_converter) 
  
 </td>
 <td>
