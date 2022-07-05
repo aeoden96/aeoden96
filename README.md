@@ -85,6 +85,7 @@ Most of these are done as uni projects. Collaborators are mentioned in individua
 🕸 Web/PHP
 * [Student Admission App](https://github.com/aeoden96-uni/DB_project)
 * [Cinema manager](https://github.com/aeoden96-uni/cinema_manager) 
+* [[React Logic/Matrix calc]](https://github.com/aeoden96-uni/java_project)
  
 </td>
 <td>
