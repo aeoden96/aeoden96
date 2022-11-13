@@ -94,7 +94,7 @@
 
 ***
 
-Most of these are done as uni projects. Collaborators are mentioned in individual readme's.
+Some of these are done as uni projects,while others as part of a tutorial. Collaborators and details are mentioned in individual readme's.
 
 
 
