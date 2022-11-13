@@ -33,7 +33,7 @@
 </td>
 <td rowspan="2">
  
-
+## Other projects
  
  :thought_balloon: AI
  * [TensorFlow Autocoder](https://github.com/aeoden96-uni/TF_autocoder)
@@ -45,6 +45,8 @@
 📉 Algorithms
 * [Walsh-hadamard algorithm](https://github.com/aeoden96-uni/walsh_hadamard_alg_analysis)
 * [Grover algorithm](https://github.com/aeoden96-uni/grover_algorithm)
+ 
+ ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
  
  📦 Other CS projects
 * Simple [Compiler](https://github.com/aeoden96-uni/py_compiler) for a C-like language made in python
