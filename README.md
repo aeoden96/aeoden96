@@ -2,13 +2,15 @@
 <tr>
 <td>
  
-:art: Low-level graphics
+## :art: Low-level graphics
 * [SlitherIo snake](https://github.com/aeoden96/opengl_slitherio) 
 * [B-spline to Bezier converter](https://github.com/aeoden96-uni/b_spline_converter)
 * [Whitted style Raytracer](https://github.com/aeoden96-cg/whitted)
 * [OpenGL Raytracer](https://github.com/aeoden96-cg/masters-ray-tracing-ogl)
 * [OpenCL Raytracer](https://github.com/aeoden96-cg/masters-ray-tracing-ocl)
 * [Path tracer](https://github.com/aeoden96-cg/masters-ray-tracing)
+ 
+ <br><br>
  
  ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
  ![OpenGL](https://img.shields.io/badge/OpenCL-%23FFFFFF.svg?style=for-the-badge&color=blue)
@@ -18,16 +20,17 @@
 </td>
 <td>
  
- :video_game: Game dev
+## :video_game: Game dev
  * [SFML RPG](https://github.com/aeoden96/SFML_RPG) from Youtube tutorial
  * [Breakout](https://github.com/aeoden96/breakout_game)
  
- <br>
+ <br><br><br><br>
  
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
  ![OpenGL](https://img.shields.io/badge/SFML-%23FFFFFF.svg?style=for-the-badge&color=green)
+ ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
  
 </td>
 <td rowspan="2">
@@ -40,7 +43,6 @@
  * [Student performace analysis](https://github.com/aeoden96-uni/student_performance)
  
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
  
@@ -66,9 +68,9 @@
 <td>
 
 🕸 Web
-* [[PHP] Student Admission App](https://github.com/aeoden96-uni/DB_project)
-* [[PHP] Cinema manager](https://github.com/aeoden96-uni/cinema_manager) 
-* [[React] Logic/Matrix calc](https://github.com/aeoden96-uni/java_project)
+* [ Student Admission App](https://github.com/aeoden96-uni/DB_project)
+* [ Cinema manager](https://github.com/aeoden96-uni/cinema_manager) 
+* [ Logic/Matrix calc](https://github.com/aeoden96-uni/java_project)
  
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
