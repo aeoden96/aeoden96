@@ -1,34 +1,3 @@
-<!-- :art: OpenGL projects
-* [SlitherIo snake](https://github.com/aeoden96/opengl_slitherio) 
-* [B-spline > Bezier converter](https://github.com/aeoden96-uni/b_spline_converter)
- 
- :video_game: SFML C++
- * [SFML RPG](https://github.com/aeoden96/SFML_RPG) from Youtube tutorial
- * [Breakout](https://github.com/aeoden96/breakout_game)
-
-:thought_balloon: AI
- * [TensorFlow Autocoder](https://github.com/aeoden96-uni/TF_autocoder)
- * [AI missionaries puzzle](https://github.com/aeoden96-uni/AI_missionaries)
- * [Student performace analysis](https://github.com/aeoden96-uni/student_performance)
-
-📉 Algorithms
-* [Walsh-hadamard algorithm](https://github.com/aeoden96-uni/walsh_hadamard_alg_analysis)
-* [Grover algorithm](https://github.com/aeoden96-uni/grover_algorithm)
-
-🕸 Web/PHP/React
-* [Student Admission App](https://github.com/aeoden96-uni/DB_project)
-* [Cinema manager](https://github.com/aeoden96-uni/cinema_manager)
-* [[React Logic/Matrix calc]](https://github.com/aeoden96-uni/java_project)
-
-📦 Other CS projects
-* Simple [Compiler](https://github.com/aeoden96-uni/py_compiler) for a C-like language made in python
-
-
-Most of these are done as uni projects. Collaborators are mentioned in individual readme's.
-
-***
-:books: [My other uni projects](https://github.com/aeoden96-uni) -->
-
 
 <table>
 <tr>
