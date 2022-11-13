@@ -10,6 +10,7 @@
 * [OpenCL Raytracer](https://github.com/aeoden96-cg/masters-ray-tracing-ocl)
 * [Path tracer](https://github.com/aeoden96-cg/masters-ray-tracing)
  
+ <br>
  
  ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
  ![OpenGL](https://img.shields.io/badge/OpenCL-%23FFFFFF.svg?style=for-the-badge&color=blue)
@@ -24,6 +25,7 @@
  * [SFML RPG](https://github.com/aeoden96/SFML_RPG) from Youtube tutorial
  * [Breakout](https://github.com/aeoden96/breakout_game)
  
+  <br> <br> <br> <br>
  
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
