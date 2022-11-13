@@ -67,10 +67,12 @@
 <tr>
 <td>
 
-🕸 Web
+## 🕸 Web
 * [ Student Admission App](https://github.com/aeoden96-uni/DB_project)
 * [ Cinema manager](https://github.com/aeoden96-uni/cinema_manager) 
 * [ Logic/Matrix calc](https://github.com/aeoden96-uni/java_project)
+ 
+ <br>
  
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -83,14 +85,14 @@
 </td>
 <td>
  
- Interested in: 
+## ✨ Interested in: 
  
  ![Vulkan](https://img.shields.io/badge/Vulkan-%23FFFFFF.svg?style=for-the-badge&color=red)
  ![WebGPU](https://img.shields.io/badge/WebGPU-%23FFFFFF.svg?style=for-the-badge&color=blue)
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
  
-
+<br><br><br><br>
 
  
 </td>
