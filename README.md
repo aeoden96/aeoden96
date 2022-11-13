@@ -1,6 +1,3 @@
-### [Some of my posted Gists](https://gist.github.com/aeoden96)
-
-## Projects
 <table>
 <tr>
 <td>
