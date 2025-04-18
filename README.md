@@ -12,10 +12,10 @@
  
  <br>
  
- ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
- ![OpenGL](https://img.shields.io/badge/OpenCL-%23FFFFFF.svg?style=for-the-badge&color=blue)
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+ <!--![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+ <!--![OpenGL](https://img.shields.io/badge/OpenCL-%23FFFFFF.svg?style=for-the-badge&color=blue)
+ <!--![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ <!--![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)-->
 
  
 </td>
@@ -27,8 +27,8 @@
  
   <br> <br> <br> <br>
  
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![OpenGL](https://img.shields.io/badge/SFML-%23FFFFFF.svg?style=for-the-badge&color=green)
+ <!--![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ ![OpenGL](https://img.shields.io/badge/SFML-%23FFFFFF.svg?style=for-the-badge&color=green)-->
 
 </td>
 <td rowspan="2" valign="top">
@@ -38,10 +38,7 @@
  * [TensorFlow Autocoder](https://github.com/aeoden96-uni/TF_autocoder)
  * [Student performace analysis](https://github.com/aeoden96-uni/student_performance)
  * [Grover algorithm](https://github.com/aeoden96-uni/grover_algorithm)
- 
-
- 📦 Other CS projects
-* Simple [Compiler](https://github.com/aeoden96-uni/py_compiler) for a C-like language made in python
+ * Simple [Compiler](https://github.com/aeoden96-uni/py_compiler) for a C-like language made in python
  
 
 :books: [My other uni projects](https://github.com/aeoden96-uni)
@@ -50,7 +47,7 @@
 </tr>
 
 <tr>
-<td valign="top">
+<!-- <td valign="top">
 
 ## Web
 * [ Student Admission App](https://github.com/aeoden96-uni/DB_project)
@@ -76,7 +73,7 @@
  
 
  
-</td>
+</td> -->
 
 </tr>
 </table>
